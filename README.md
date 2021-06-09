@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marhercha
-- 👀 I’m interested in health sciences, surfing, music and sound systems.
+- 👀 I’m interested in health science, surfing, music and sound systems.
 - 🌱 I’m just starting out with coding from scratch.
 
 <!---
